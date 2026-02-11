@@ -1,4 +1,4 @@
-# PPI-Graphomer on MSU HPCC — One-copy README (Fully commented)
+# PPI-Graphomer on MSU HPCC 
 
 This README is ready to paste into GitHub. It covers:
 1) Install + conda environment
